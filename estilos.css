@@ -1,0 +1,34 @@
+/* Banner styles */
+@import url('https://web-static.archive.org/_static/css/banner-styles.css?v=p7PEIJWi');
+@import url('https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv');
+
+/* Custom Styles for the Wayback Toolbar */
+#wm-ipp {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+}
+
+#wm-toolbar {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+
+#wm-logo {
+  padding-top: 12px;
+}
+
+.u input {
+  flex: 1;
+}
+
+#wm-ipp-inside {
+  padding: 10px;
+}
+
+#donato-if {
+  width: 100%;
+  height: 100%;
+}
